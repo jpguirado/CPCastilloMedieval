@@ -1,0 +1,55 @@
+Arquera 1 : 	Destino -> x=4.69817 y= 6.705103 z = -23.24463
+	    	Origen -> x = -6.8 y =6.7 z =  16.6
+
+Arquera 2 : 	Destino -> x=-1.878502 y= 6.705103 z = -32.54024
+	    	Origen -> x = -26.30222 y = 6.705103 z =  -57.81403
+
+Arquera 4 : 	Destino -> x=-62.25044 y= 6.705103 z = 7.7133
+	    	Origen -> x = -70.64087 y = 6.705103 z =  5.13974
+
+Arquera 5 : 	Destino -> x=-95.56528 y= 6.727834 z = -7.669245
+	    	Origen -> x = -89.54254 y = 6.747488 z =  -2.100477
+
+Arquera 6 : 	Destino -> x=-112.1719 y= 6.711939 z = -38.88765
+	    	Origen -> x = -107.5096 y = 6.851373 z =  -27.83903
+
+Arquera 7 : 	Destino -> x=-83.48987 y= 6.705103 z = -57.79715
+	    	Origen -> x = -99.33046 y = 6.705103 z =  -50.76853
+
+Caballero 1 : 	Destino -> x=-3.392628 y= 0.207479 z = 0.0285244
+	    	Origen -> x = -22.00301 y = 0.2051029 z =  -41.08842
+
+Caballero 2 : 	Destino -> x=-78.40392 y= 0.244935 z = -8.910759
+	    	Origen -> x = -39.88958 y = 0.2051029 z =  -4.682917
+
+Caballero 3 : 	Destino -> x=-102.8556 y= 0.2467723 z = -37.22548
+	    	Origen -> x = -89.57965 y = 0.2407465 z =  -14.97987
+
+Rey : 		Centro-> x=-70.6 y= 1.6 z = -23.0
+	    	
+Guardia Real 1:	posicionDefensa -> x=-68.54003 y= 1.758855 z = -23.32714
+	    	posicionOriginal -> x = -58.67104 y = 0.2811737 z =  -23.13056
+
+Guardia Real 2:	posicionDefensa -> x=-68.54003 y= 1.758855 z = -23.32714
+	    	posicionOriginal -> x = -63.97668 y = 0.2884369 z =  -14.31626
+
+Guardia Real 3:	posicionDefensa -> x=-68.54003 y= 1.758855 z = -23.32714
+	    	posicionOriginal -> x = -79.46391 y = 0.2745538 z =  -15.84785
+
+Guardia Real 4:	posicionDefensa -> x=-68.54003 y= 1.758855 z = -23.32714
+	    	posicionOriginal -> x = -84.9538 y = 0.2680225 z =  -24.5694
+
+Campesina:	posicionHuida -> x=-23.53896 y= -1.294897 z = 29.60473
+		Origen -> x = -14.40794 y = 0.2051029 z =  2.064014
+	    	Destino -> x=4.463074 y= 0.2051029 z = 2.333179
+Enemigo: Pos 0 -> x = -59.30297 y = -4.13 z = 22.58327
+		 Pos 1 -> x = -119.1 y = -7.3 z = -25.46	
+		 Pos 2 -> x = 0.85 y = -1.89 z = -45.53
+					
+
+	    	
+
+
+
+
+

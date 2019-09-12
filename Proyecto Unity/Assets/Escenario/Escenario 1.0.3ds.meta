@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: b8b2837dbd291e34baf7856d59f828b0
+timeCreated: 1525514518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.target
+    100004: //RootNode
+    100006: Model
+    400000: Camera
+    400002: Camera.target
+    400004: //RootNode
+    400006: Model
+    2100000: Azul_Fac
+    2100002: Blacktop
+    2100004: Carrera_
+    2100006: Cruz_Tor
+    2100008: Cruz_gra
+    2100010: Escalera
+    2100012: Foregrou
+    2100014: FrontCol
+    2100016: Groundco
+    2100018: Lisanne_
+    2100020: Medios_B
+    2100022: Metal_Ru
+    2100024: Murall01
+    2100026: Muralla_
+    2100028: Murallas
+    2100030: Pared_Mu
+    2100032: Pendient
+    2100034: Puerta_S
+    2100036: Rosa_Fac
+    2100038: Suelo_Ar
+    2100040: Suelo_La
+    2100042: Suelo_Pe
+    2100044: Tejas_Mo
+    2100046: Tejas_Pu
+    2100048: Tela_Ven
+    2100050: Vegetati
+    2100052: Ventan01
+    2100054: Ventanas
+    2100056: Wood_Che
+    2300000: Model
+    3300000: Model
+    4300000: Model
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul_Fac
+    second: {fileID: 2100000, guid: d6be3ea5051acae4cad43175dab70682, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blacktop
+    second: {fileID: 2100000, guid: 52d1c14904a36cf4ea78514c1369277a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrera_
+    second: {fileID: 2100000, guid: a850c3b96a06e4b46ab5f15b9a99a8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cruz_Tor
+    second: {fileID: 2100000, guid: e7c413c08ba47874b90562a6711f8ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cruz_gra
+    second: {fileID: 2100000, guid: 3c43e0f285d18db41ab9a48dd379fb49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera
+    second: {fileID: 2100000, guid: 82167510c3b6c364f812f8652716e852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foregrou
+    second: {fileID: 2100000, guid: dab26cf86caa6fc4dbec3bc8fcecee83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontCol
+    second: {fileID: 2100000, guid: 9a570a94ae20c694ba90e52a8f386ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundco
+    second: {fileID: 2100000, guid: 29e11750df412f944a04d3e01c272765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_
+    second: {fileID: 2100000, guid: 8107b500eb09d1845a453e26053a278a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medios_B
+    second: {fileID: 2100000, guid: 4d0a3621171274047a41f79ad4d94071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Ru
+    second: {fileID: 2100000, guid: 0da48842485c147419028462711df83b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Murall01
+    second: {fileID: 2100000, guid: 434c9e14310e80e4082b716b0c6daad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muralla_
+    second: {fileID: 2100000, guid: 2c8ebd15b060cbc439b137e52cc5f927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Murallas
+    second: {fileID: 2100000, guid: 332cf411d0ca65a40ba2a52897deb1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared_Mu
+    second: {fileID: 2100000, guid: 8651853655f327648a312df4840ed93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pendient
+    second: {fileID: 2100000, guid: 6b2934572208017418505ebce46bd0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta_S
+    second: {fileID: 2100000, guid: 8ce2cbdac2e9e5a4394a01f471e25db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rosa_Fac
+    second: {fileID: 2100000, guid: b364bbd0105787f4abd50be62497d647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suelo_Ar
+    second: {fileID: 2100000, guid: ab3286d29d568d141b96f3b6aaeb5846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suelo_La
+    second: {fileID: 2100000, guid: 7cc5c694e3fc83d4eaceec82f3e7db20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suelo_Pe
+    second: {fileID: 2100000, guid: 45f50b65e4373d04b85219ed786ab776, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tejas_Mo
+    second: {fileID: 2100000, guid: ff357188bec63a84c890b6570adbd138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tejas_Pu
+    second: {fileID: 2100000, guid: d4038314c521c86488e04e23bca50095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tela_Ven
+    second: {fileID: 2100000, guid: fca23b003315b6942a886182a73bcdff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vegetati
+    second: {fileID: 2100000, guid: 147106689e042e34dae377170b4462ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventan01
+    second: {fileID: 2100000, guid: a0729a9c1b27b4c408bffcf2ee053c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventanas
+    second: {fileID: 2100000, guid: 1d1e2b02988d2194a8ca47c2932561cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Che
+    second: {fileID: 2100000, guid: d6c450d0f3668ab4581dc984f216f97c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
